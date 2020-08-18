@@ -1,0 +1,12 @@
+.p{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: auto;
+}
+
+span{
+    margin: 10px 40px;
+}
